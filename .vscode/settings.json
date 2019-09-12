@@ -1,0 +1,9 @@
+{
+    "python.pythonPath": "venv\\Scripts\\python.exe", 
+    "python.linting.pylintArgs": [
+        "--load-plugins",
+        "--errors-only",
+        "pylint_flask"
+    ],
+    "appService.showBuildDuringDeployPrompt": false
+}
